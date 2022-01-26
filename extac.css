@@ -1,0 +1,27 @@
+/**{*/
+/*    background:aqua;}*/
+/*}*/
+/*input[type=text],input[type=email],input[type=password] {*/
+/*    border-color: red;*/
+/*    background: white;*/
+/*}*/
+/*input[type=submit] {*/
+/*    background: white;*/
+/*}*/
+/*h1{*/
+/*    color: blue;*/
+/*}*/
+table,td,tr{
+    border:black 2px solid;
+    border-collapse: collapse;
+}
+td{
+    width: 100px;
+}
+p{
+    background: aqua;
+    width: 300px;
+    border: 20px solid red;
+    padding: 10px;
+    margi : 30px;
+}
